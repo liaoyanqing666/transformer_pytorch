@@ -15,7 +15,7 @@ I wrote this program to solidify my understanding of the Transformer and to demo
 ```markdown
 Paper: Vaswani A, Shazeer N, Parmar N, et al. Attention is all you need[J]. Advances in neural information processing systems, 2017, 30.
 
-Paper site: [https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf](Attention Is All You Need)
+Paper site: [Attention Is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 ```
 
 ### English Introduction
