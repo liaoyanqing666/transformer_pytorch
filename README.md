@@ -12,6 +12,8 @@ I wrote this program to solidify my understanding of the Transformer and to demo
 
 我写这个程序是为了巩固我对 Transformer 的理解，并且证明我有根据论文编写代码的能力。
 
+如果你想了解transformer的具体设计思路，请查看我写的[这篇文章](https://blog.csdn.net/m0_61718615/article/details/136803377)。
+
 ```markdown
 Paper: Vaswani A, Shazeer N, Parmar N, et al. Attention is all you need[J]. Advances in neural information processing systems, 2017, 30.
 
